@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">A Fullstack developer from India</h3>
+<h3 align="center">A Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshsingh112&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshsingh112" /> </p>
 
