@@ -34,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshsingh112&show_icons=true&locale=en" alt="utkarshsingh112" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshsingh112&" alt="utkarshsingh112" /></p>
-![Snake animation]
-(https://github.com/Utkarshsingh112/Utkarshsingh112/blob/output/snake.svg)
+
