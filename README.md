@@ -20,6 +20,10 @@
 - 📄 Know about my experiences [https://flowcv.com/resume/j2klqlkvhu](https://flowcv.com/resume/j2klqlkvhu)
 
 - ⚡ Fun fact **I'm good at gaming**
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/98ad9834-6be5-4314-8a71-ae069916cc15" width="250" alt="Gaming GIF" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
