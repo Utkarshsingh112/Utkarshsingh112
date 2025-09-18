@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **Devops**
 - 💬 Ask me about **AI and new tech**
 - 📫 How to reach me **utkarshsinghrajawat12@gmail.com**
-- 📄 Know about my experiences [https://flowcv.com/resume/j2klqlkvhu](https://flowcv.com/resume/j2klqlkvhu)
+- 📄 Know about my experiences
 - ⚡ Fun fact **I'm good at gaming**
 
 <p align="center">
