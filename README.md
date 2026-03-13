@@ -1,4 +1,4 @@
-![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/dad874e40be3.png)
+[![OpenReadme](https://raw.githubusercontent.com/ravixalgorithm/openreadme-images/main/profiles/dad874e40be3.png)]
 
 <h1 align="center">Hey there 👋</h1>
 
