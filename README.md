@@ -1,5 +1,3 @@
-![Bento Banner](./bento.svg)
-
 <h1 align="center">Hey there 👋</h1>
 
 <a href="https://utkarshcodes.xyz"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&pause=1000&color=16B9F7&width=500&lines=I'm+Utkarsh+Singh;Full+Stack+Developer;MERN+%2B+Next.js+Builder;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" /></a>
